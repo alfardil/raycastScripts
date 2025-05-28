@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon images/java.png
+# @raycast.icon images/Java-Logo.png
 # @raycast.packageName JavaPractice
 
 # Documentation:
