@@ -16,7 +16,7 @@
 
 PROJECT_PATH="/Users/alfardilalam/javaPractice"
 
-VSCODE_APP="/Applications/Visual Studio Code.app"
+VSCODE_APP="/Applications/Zed.app"
 
 open -a "$VSCODE_APP" "$PROJECT_PATH"
 
